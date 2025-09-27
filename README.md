@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## About me
 - 🔭 I’m currently working on LLMs.
 
-- 📫 You can mail me via [gmail](zsirhenu@gmail.com)
+- 📫 You can mail me via zsirhenu[at]gmail[dot]com
 
 
 [![Chenlong's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenlong-clock)](https://github.com/anuraghazra/github-readme-stats)
